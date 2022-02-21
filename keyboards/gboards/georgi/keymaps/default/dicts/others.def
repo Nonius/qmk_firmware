@@ -14,7 +14,7 @@ KEYS( LNO | RNO | LA | RU,                cmb_CShift,    {KC_LCTL, KC_LSFT, COMB
 KEYS( LNO | LA  | RE,                     cmb_CAShift,   {KC_LCTL, KC_LSFT, KC_LALT, COMBO_END})
 
 // Mods
-PRES( RT | RD   | RS | RZ,                               KC_LGUI)
+PRES( RD | RZ,                                           KC_LGUI)
 PRES( RT | RD,                                           KC_LCTL)
 PRES( RS | RZ,                                           KC_LALT)
 PRES( LA | LNO,                                          KC_LCTL)
