@@ -58,10 +58,9 @@ PRES( RNO | LA,                 KC_5)
 
 // Specials
 PRES( RU | RNO,                 KC_TAB)
-PRES( RT | RD | RS | RZ,        KC_ENT)
+PRES( RD | RZ,                  KC_ENT)
 PRES( RE,                       KC_ENT)
 PRES( RD,                       KC_BSPC)
 PRES( LA,                       KC_DEL)
 PRES( RU,                       KC_SPC)
-PRES( RU | RE,                  KC_SPC)
 PRES( RZ,                       KC_ESC)
