@@ -16,7 +16,7 @@ KEYS( LNO | LA  | RE,                     cmb_CAShift,   {KC_LCTL, KC_LSFT, KC_L
 // Mods
 PRES( RE | RU,                                           KC_LGUI)
 PRES( RT | RD,                                           KC_LCTL)
-PRES( RS | RZ,                                           KC_LALT)
+PRES( RS | RZ,                                           KC_SPC)
 PRES( LA | LNO,                                          KC_LCTL)
 PRES( LA | LO,                                           KC_LALT)
 PRES( LO,                                                KC_LSFT)
